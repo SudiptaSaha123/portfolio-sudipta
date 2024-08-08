@@ -9,8 +9,8 @@ const Projects = () => {
       </h3>
       <div className="flex sm:flex-row flex-col sm:gap-0 gap-6 justify-between">
         <div className="flex gap-4 ">
-          <h3 className="bg-[#000000] text-white py-2 px-4 rounded-xl text-[0.7rem] sm:text-[0.8rem] ">
-            E-Learning <br />
+          <h3 className="bg-[#000000] text-white py-2 px-4 rounded-xl text-[0.7rem] sm:text-[0.8rem] w-[30%]">
+            EdTech <br />
             Platform
           </h3>
           <div className="flex flex-col gap-4 ">
@@ -39,7 +39,7 @@ const Projects = () => {
         </div>
 
         <div className="flex gap-4">
-          <h3 className="bg-[#000000] text-white py-2 px-4 rounded-xl text-[0.7rem] sm:text-[0.8rem]">
+          <h3 className="bg-[#000000] text-white py-2 px-4 rounded-xl text-[0.7rem] sm:text-[0.8rem] w-[30%]">
             Full Stack
             <br /> Event Platform
           </h3>
@@ -69,7 +69,7 @@ const Projects = () => {
         </div>
 
         <div className="flex gap-4">
-          <h3 className="bg-[#000000] text-white py-2 px-4 rounded-xl text-[0.7rem] sm:text-[0.8rem]">
+          <h3 className="bg-[#000000] text-white py-2 px-4 rounded-xl text-[0.7rem] sm:text-[0.8rem] w-[30%]">
             Serverless Blog <br /> Website
           </h3>
           <div className="flex flex-col gap-4 ">

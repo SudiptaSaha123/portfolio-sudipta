@@ -3,12 +3,12 @@ import Link from "next/link";
 
 const Contact = () => {
   return (
-    <div className="mt-4 sm:mt-10 sm:mb-0 mb-20">
+    <div className="mt-10 sm:mt-10 sm:mb-0 mb-20">
       <h3 className="text-[#000000] text-[1.2rem] sm:text-[1.2rem] font-medium mb-8">
         contact / socials
       </h3>
 
-      <div className="flex flex-col w-[30%] gap-2">
+      <div className="flex flex-col sm:w-[30%] gap-2">
         <div className="flex justify-between text-[0.9rem] sm:text-[1rem] sm:gap-0 gap-10">
           <div>Github</div>
           <Link
@@ -56,7 +56,7 @@ const Contact = () => {
           </Link>
         </div>
 
-        <div className="flex sm:justify-between text-[0.9rem] sm:text-[1rem] sm:gap-0 gap-10">
+        <div className="flex justify-between text-[0.9rem] sm:text-[1rem] sm:gap-0 gap-10">
           <div>Resume</div>
           <Link
             href="https://drive.google.com/file/d/1xln4qRfNMj0BKl4vEsLonhGdpKKLTJMa/view"

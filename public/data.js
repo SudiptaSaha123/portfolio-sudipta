@@ -9,7 +9,7 @@ const data = [
         },
         {
             "type":"Others",
-            "skills": ["AWS", "Docker", "Kubernetes", "Prisma", "Prometheus", "Grafana", "Vitest", "Moneorepo", "WebRTC"]
+            "skills": ["AWS", "Docker", "Kubernetes", "Kafka", "Redis", "Prisma", "Prometheus", "Grafana", "Vitest", "Moneorepo", "WebRTC"]
         }
 ]
 
