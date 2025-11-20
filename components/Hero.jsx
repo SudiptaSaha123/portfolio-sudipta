@@ -5,6 +5,7 @@ import Footer from "./Footer";
 import Resume from "./Resume";
 import EmailMe from "./EmailMe";
 import Contact from "./Contact";
+import Experience from "./Experience";
 
 const Hero = () => {
   return (
@@ -34,6 +35,7 @@ const Hero = () => {
         </div>
       </div>
 
+      <Experience />
       <Skills />
       <Projects />
       <div className="mt-[3rem] sm:mt-[6rem] w-full h-[0.1rem] bg-black opacity-5"></div>

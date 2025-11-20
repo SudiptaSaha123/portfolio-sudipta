@@ -4,7 +4,7 @@ import { LuExternalLink } from "react-icons/lu";
 const Resume = () => {
   return (
     <Link
-      href="https://drive.google.com/file/d/1xln4qRfNMj0BKl4vEsLonhGdpKKLTJMa/view"
+      href="https://drive.google.com/file/d/1_vHOu5W53oIWH1Nes2C3r3ZLggh7ZPkp/view"
       target="_blank"
       className="flex bg-black text-white rounded-xl w-fit py-2 px-8 items-center justify-center gap-4 sm:gap-2 text-[0.7rem] sm:text-[0.8rem] cursor-pointer"
     >
